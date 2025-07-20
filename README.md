@@ -1,3 +1,6 @@
+
+<img width="1024" height="1024" alt="capa" src="https://github.com/user-attachments/assets/9811e8f0-f529-499b-b710-f62d3828cfe4" />
+
 # 📦 CRUD Labsystem
 
 Sistema web desenvolvido em **PHP** e **MySQL**, com funcionalidades completas para cadastro, edição e listagem de **clientes**, **fornecedores** e **produtos**. Ideal para aprendizado, portfólio ou uso comercial.

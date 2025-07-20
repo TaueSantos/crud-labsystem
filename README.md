@@ -73,6 +73,19 @@ CREATE TABLE produtos (
 );
 Atualize o db.php com suas credenciais de banco
 
+## 💾 Banco de Dados
+
+O repositório inclui um backup em [`lab_crud.sql`](lab_crud.sql), que pode ser importado via **phpMyAdmin** para criar as tabelas e estrutura inicial do projeto.
+
+**Importar no XAMPP:**
+1. Acesse `http://localhost/phpmyadmin`
+2. Crie um banco com o nome `labsystem` (ou o nome que preferir)
+3. Vá na aba “Importar” e selecione o arquivo `lab_crud.sql`
+4. Clique em “Executar”
+
+Pronto! O sistema estará pronto para uso local 🎉
+
+
 Acesse no navegador:
 
 http://localhost/crud-labsystem/
